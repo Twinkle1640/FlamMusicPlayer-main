@@ -56,7 +56,7 @@ FlamMusicPlayer/
 ## 👨‍💻 Developer
 
 **Twinkle Hareendran**  
-[GitHub Profile]
+
 
 ---
 
