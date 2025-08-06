@@ -1,6 +1,6 @@
 # 🎵 FlamMusicPlayer
 
-A clean, modular MVVM-based iOS Music Player built as part of the FLAM assignment challenge by **Vuyyala Praveen Kumar**.
+A clean, modular MVVM-based iOS Music Player built as part of the FLAM assignment challenge by **Twinkle Hareendran**.
 
 ---
 
@@ -55,8 +55,8 @@ FlamMusicPlayer/
 
 ## 👨‍💻 Developer
 
-**Vuyyala Praveen Kumar**  
-[GitHub Profile](https://github.com/praveenv33)
+**Twinkle Hareendran**  
+[GitHub Profile]
 
 ---
 
